@@ -16,3 +16,11 @@ This page is a list of accepted ideas prepared specifically for [Spinnaker](http
 | <span style="font-size: 1.2em; display: block; padding-bottom: 10px;font-weight: bold;">Build-a-Plugin</span>Make a plugin to integrate Spinnaker with your favorite service / tool! Learn about Spinnaker and its Plugin Framework by creating a plugin for Spinnaker. Once the plugin is built, we will work together to add the plugin into the OSS Spinnaker Plugin Repository.<span style="display: block;padding-top: 10px; ">**Available Mentor(s):** Cameron Motevasselani, Dan Johnston</span> | Java<br />Javascript |
 | <span style="font-size: 1.2em; display: block; padding-bottom: 10px;font-weight: bold;">Release Improvement</span>Possible projects could include showing code coverage for projects, "X days since last deploy failure" signs and more!<span style="display: block;padding-top: 10px;">**Available Mentor(s):** Cameron Motevasselani, Fernando Freire</span> | Java<br />Github Actions<br />Testing frameworks |
 | <span style="font-size: 1.2em; display: block; padding-bottom: 10px;font-weight: bold;">Mobile-first Spinnaker Experience</span>Build a mobile-first Spinnaker experience that gives users a quick and easy way to get at-a-glance intelligence about their cloud infrastructure, with easy hooks for taking the most common CD actions on the go.<span style="display: block;padding-top: 10px;">**Available Mentor(s):** Fernando Freire, Dan Johnston</span> | *All Optional*<br />Javascript/ReactNative<br />Flutter<br />Java/Kotlin<br />ObjectiveC/Swift |
+
+## Past Projects
+### 2021
+- [try.spinnaker.io](/community/gsoc/projects/2021/try-spinnaker-io) by [Daniel Ko](ko28.github.io) 
+
+### 2020
+- [Drone CI type for Spinnaker pipeline stage](https://summerofcode.withgoogle.com/archive/2020/projects/4813067126308864/) by Victor Odusanya
+- [Continuous Delivery, Continuous Deployments with Spinnaker](https://summerofcode.withgoogle.com/archive/2020/projects/4578914636136448/) by Moki Daniel
